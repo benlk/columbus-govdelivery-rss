@@ -2,6 +2,8 @@
 
 **→ [Download the CSV](./feeds.csv) ←**
 
+**→ [Import the OPML](./subscription.xml) ←**
+
 **What**: This repository contains a list of all RSS feeds maintained by the City of Columbus using the GovDelivery mailing list service.
 
 **Why**: If you want to see what mailing lists are available. If you want to sign up for every single mailing list, in order to receive the full firehose of content. If you wished that Columbus did a better job of maintaining its website. If you want to have links to publicly-accessible webpages for the emails that Council sends.
