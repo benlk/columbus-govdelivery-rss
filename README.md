@@ -8,7 +8,7 @@
 
 **Why**: If you want to see what mailing lists are available. If you want to sign up for every single mailing list, in order to receive the full firehose of content. If you wished that Columbus did a better job of maintaining its website. If you want to have links to publicly-accessible webpages for the emails that Council sends.
 
-**When**: This list was last generated from a crawl on 2022-10-05
+**When**: See [the changelog](./changelog.md) for the date of the most-recent scrape, and other changes to this repository.
 
 **How**: The US Coast Guard [published a helpful list of signup URLs and RSS feed URLs](https://www.navcen.uscg.gov/subscribe-email-rss-feeds) for their notices. I compared the two URLs and discovered that, In a signup URL like `https://public.govdelivery.com/accounts/USDHSCG/subscriber/new?topic_id=USDHSCG_65`, the topic ID `USDHSCG_65` is repeated in the RSS feed URL `https://public.govdelivery.com/topics/USDHSCG_65/feed.rss`.
 

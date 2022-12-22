@@ -1,4 +1,12 @@
 <opml version="2.0">
+	<head>
+		<title>Columbus GovDelivery RSS Feeds</title>
+		<dateCreated>24 Oct 2022</dateCreated>
+		<dateModified>22 Dec 2022</dateModified>
+		<ownerName>Ben Keith</ownerName>
+		<docs>http://opml.org/spec2.opml</docs>
+		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
+	</head>
 	<body>
 		<outline text="Subscriptions" title="Subscriptions">
 			<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_118/feed.rss' />
