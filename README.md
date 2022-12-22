@@ -2,7 +2,7 @@
 
 **→ [Download the CSV](./feeds.csv) ←**
 
-**→ [Import the OPML](./subscriptions.xml) ←**
+**→ [Import the OPML](./subscriptions.opml) ←**
 
 **What**: This repository contains a list of all RSS feeds maintained by the City of Columbus using the GovDelivery mailing list service.
 
