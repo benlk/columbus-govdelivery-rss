@@ -38,3 +38,11 @@ Many feeds have no items. I _suspect_ that this is because:
 - there's a retention cutoff, before which GovDelivery no longer keeps bulletins
 - there's a cutoff in the query used to generate a feed, before which the RSS feed won't show public webpage URLs for bulletins sent via GovDelivery
 - GovDelivery may not have had the public webpage URL feature before sometime in 2020.
+
+## Updating instructions
+
+1. `./scraper.bash`
+2. `./parser.bash > feeds.csv`
+3. `php subscriptions.opml.php > subscriptions.php`
+4. Update `changelog.md`
+5. Commit changes and push

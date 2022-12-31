@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), as much as a document can.
 
+## 2.01
+
+2022-12-31
+
+### Fixed
+
+- `subscriptions.opml` was valid XML and OPML, but contained no `<outline type="rss" />` elements, and so it was not interpreted as containing feeds by some feed readers. This has been fixed.
+
+### Added
+
+- `subscriptions.opml.php` generates a valid OPML file, whose contents are now saved as `subscriptions.opml`
+- `README.md` now contains a description of how to update this repository, including instructions on how to use `subscriptions.opml.php`
+
 ## 2.0
 
 2022-12-22

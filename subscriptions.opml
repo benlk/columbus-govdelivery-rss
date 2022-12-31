@@ -2,276 +2,275 @@
 	<head>
 		<title>Columbus GovDelivery RSS Feeds</title>
 		<dateCreated>24 Oct 2022</dateCreated>
-		<dateModified>22 Dec 2022</dateModified>
+		<dateModified>31 Dec 2022</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
 	</head>
 	<body>
-		<outline text="Subscriptions" title="Subscriptions">
-			<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_118/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_11/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_120/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_122/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_124/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_126/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_128/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_131/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_132/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_133/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_134/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_135/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_136/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_137/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_138/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_13/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_140/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_141/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_142/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_143/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_151/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_152/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_153/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_154/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_155/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_156/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_158/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_159/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_160/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_162/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_163/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_166/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_167/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_16/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_172/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_173/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_174/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_175/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_176/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_17/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_181/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_185/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_18/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_194/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_196/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_197/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_198/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_200/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_204/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_205/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_206/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_208/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_209/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_20/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_211/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_212/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_213/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_214/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_215/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_216/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_217/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_218/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_219/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_21/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_220/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_222/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_224/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_225/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_226/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_227/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_229/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_22/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_233/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_236/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_238/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_23/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_241/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_242/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_243/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_246/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_247/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_248/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_249/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_24/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_250/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_251/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_252/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_253/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_255/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_257/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_258/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_259/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_260/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_261/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_262/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_263/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_264/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_266/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_267/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_268/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_269/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_26/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_270/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_273/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_279/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_280/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_281/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_282/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_283/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_284/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_285/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_286/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_287/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_288/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_289/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_28/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_290/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_293/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_294/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_295/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_296/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_297/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_298/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_299/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_29/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_300/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_302/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_303/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_304/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_308/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_310/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_311/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_313/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_314/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_316/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_318/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_319/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_321/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_322/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_323/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_324/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_325/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_327/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_329/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_32/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_331/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_332/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_334/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_336/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_337/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_339/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_33/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_340/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_341/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_342/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_344/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_346/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_347/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_348/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_349/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_34/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_350/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_351/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_352/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_353/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_354/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_355/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_356/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_357/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_358/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_359/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_35/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_360/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_362/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_364/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_365/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_367/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_368/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_369/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_36/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_370/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_371/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_372/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_373/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_374/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_375/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_376/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_377/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_378/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_379/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_37/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_380/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_385/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_386/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_387/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_388/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_389/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_38/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_390/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_391/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_392/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_393/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_394/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_395/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_396/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_397/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_398/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_399/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_400/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_401/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_402/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_403/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_404/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_405/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_406/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_407/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_408/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_409/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_40/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_411/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_412/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_413/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_414/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_415/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_416/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_417/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_418/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_41/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_423/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_424/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_425/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_426/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_427/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_428/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_42/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_431/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_432/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_433/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_434/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_436/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_437/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_438/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_43/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_440/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_44/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_46/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_47/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_60/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_63/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_64/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_65/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_66/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_70/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_71/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_72/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_73/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_75/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_76/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_77/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_78/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_79/feed.rss' />
-<outline xmlUrl='https://public.govdelivery.com/topics/OHCCC_80/feed.rss' />
-	
-		</outline>
+		<outline text="Columbus GovDelivery RSS Feeds" title="Columbus GovDelivery RSS Feeds">
+            <outline text="TEST_HLB - Recent Updates" type="rss" title="TEST_HLB - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_118/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_118"/>
+<outline text="CCC - Legislation In Your Neighborhood - Recent Updates" type="rss" title="CCC - Legislation In Your Neighborhood - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_11/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_11"/>
+<outline text="ATY - City Attorney News &amp; Releases - Recent Updates" type="rss" title="ATY - City Attorney News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_120/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_120"/>
+<outline text="SAFE/SS Vehicle for Hire Drivers - Recent Updates" type="rss" title="SAFE/SS Vehicle for Hire Drivers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_122/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_122"/>
+<outline text="ALL - City of Columbus Staff - Recent Updates" type="rss" title="ALL - City of Columbus Staff - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_124/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_124"/>
+<outline text="MAY - General Invitation - Recent Updates" type="rss" title="MAY - General Invitation - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_126/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_126"/>
+<outline text="SAFE/SS Mobile Food Vending - Outside CPH - Recent Updates" type="rss" title="SAFE/SS Mobile Food Vending - Outside CPH - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_128/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_128"/>
+<outline text="HR - Announcement - Recent Updates" type="rss" title="HR - Announcement - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_131/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_131"/>
+<outline text="AUD - Income Tax Division - Recent Updates" type="rss" title="AUD - Income Tax Division - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_132/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_132"/>
+<outline text="R&amp;P - Alcohol Events - Recent Updates" type="rss" title="R&amp;P - Alcohol Events - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_133/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_133"/>
+<outline text="R&amp;P - Downtown Business Contacts - Recent Updates" type="rss" title="R&amp;P - Downtown Business Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_134/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_134"/>
+<outline text="R&amp;P - Race Coordinators - Recent Updates" type="rss" title="R&amp;P - Race Coordinators - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_135/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_135"/>
+<outline text="R&amp;P - SESP Contacts - Recent Updates" type="rss" title="R&amp;P - SESP Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_136/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_136"/>
+<outline text="R&amp;P - City Permits Contacts - Recent Updates" type="rss" title="R&amp;P - City Permits Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_137/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_137"/>
+<outline text="R&amp;P - Event Coordinators - Recent Updates" type="rss" title="R&amp;P - Event Coordinators - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_138/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_138"/>
+<outline text="CCC - Charter Review - Recent Updates" type="rss" title="CCC - Charter Review - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_13/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_13"/>
+<outline text="R&amp;P - SAP Contacts - Recent Updates" type="rss" title="R&amp;P - SAP Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_140/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_140"/>
+<outline text="R&amp;P - Street Closure Contacts - Recent Updates" type="rss" title="R&amp;P - Street Closure Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_141/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_141"/>
+<outline text="AUD - City Auditor News &amp; Releases - Recent Updates" type="rss" title="AUD - City Auditor News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_142/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_142"/>
+<outline text="DEV - Development E-Blast - Recent Updates" type="rss" title="DEV - Development E-Blast - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_143/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_143"/>
+<outline text="R&amp;P - Special Events Miscellaneous - Recent Updates" type="rss" title="R&amp;P - Special Events Miscellaneous - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_151/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_151"/>
+<outline text="CCC - Media - Recent Updates" type="rss" title="CCC - Media - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_152/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_152"/>
+<outline text="MAY - Faith Leaders - Recent Updates" type="rss" title="MAY - Faith Leaders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_153/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_153"/>
+<outline text="MAY - Office Staff - Recent Updates" type="rss" title="MAY - Office Staff - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_154/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_154"/>
+<outline text="MAY - Cabinet - Recent Updates" type="rss" title="MAY - Cabinet - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_155/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_155"/>
+<outline text="MAY - Stakeholders - Recent Updates" type="rss" title="MAY - Stakeholders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_156/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_156"/>
+<outline text="ODI - City of Columbus Career Fair - Recent Updates" type="rss" title="ODI - City of Columbus Career Fair - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_158/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_158"/>
+<outline text="MAY - Employee Career Fair Poll - Recent Updates" type="rss" title="MAY - Employee Career Fair Poll - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_159/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_159"/>
+<outline text="NEI - CNC Grants - Recent Updates" type="rss" title="NEI - CNC Grants - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_160/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_160"/>
+<outline text="NEI - Area Commissioner and Zoning Training - Recent Updates" type="rss" title="NEI - Area Commissioner and Zoning Training - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_162/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_162"/>
+<outline text="SAFE/SS Public Safety Communications and Technology - Recent Updates" type="rss" title="SAFE/SS Public Safety Communications and Technology - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_163/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_163"/>
+<outline text="NEI - Area Commission E-Mail List - Recent Updates" type="rss" title="NEI - Area Commission E-Mail List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_166/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_166"/>
+<outline text="DPU – Division of Power Program Information - Recent Updates" type="rss" title="DPU – Division of Power Program Information - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_167/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_167"/>
+<outline text="CCC - Chambermail - Recent Updates" type="rss" title="CCC - Chambermail - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_16/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_16"/>
+<outline text="CELE1 - CelebrateOne_Drivers - Recent Updates" type="rss" title="CELE1 - CelebrateOne_Drivers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_172/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_172"/>
+<outline text="CELE1 - CelebrateOne_Funders - Recent Updates" type="rss" title="CELE1 - CelebrateOne_Funders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_173/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_173"/>
+<outline text="CELE1 - CelebrateOne_Partners - Recent Updates" type="rss" title="CELE1 - CelebrateOne_Partners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_174/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_174"/>
+<outline text="CELE1 - CelebrateOne_HBAH Core Members - Recent Updates" type="rss" title="CELE1 - CelebrateOne_HBAH Core Members - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_175/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_175"/>
+<outline text="CELE1 - CelebrateOne_RE Developers - Recent Updates" type="rss" title="CELE1 - CelebrateOne_RE Developers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_176/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_176"/>
+<outline text="CCC - Council News - Recent Updates" type="rss" title="CCC - Council News - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_17/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_17"/>
+<outline text="R&amp;P - Sports - Youth Travel Baseball Teams - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Travel Baseball Teams - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_181/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_181"/>
+<outline text="FIRE - Command Post - Recent Updates" type="rss" title="FIRE - Command Post - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_185/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_185"/>
+<outline text="CCC - Community Engagement - Recent Updates" type="rss" title="CCC - Community Engagement - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_18/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_18"/>
+<outline text="MAY - Census - Recent Updates" type="rss" title="MAY - Census - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_194/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_194"/>
+<outline text="NEI - Civic Associations Spring 2019 - Recent Updates" type="rss" title="NEI - Civic Associations Spring 2019 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_196/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_196"/>
+<outline text="GRN – GreenSpot Reminder - Recent Updates" type="rss" title="GRN – GreenSpot Reminder - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_197/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_197"/>
+<outline text="NEI - 2019 Spring Area Commission Training Invite List - Recent Updates" type="rss" title="NEI - 2019 Spring Area Commission Training Invite List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_198/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_198"/>
+<outline text="MAY - Police Chief Search - Recent Updates" type="rss" title="MAY - Police Chief Search - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_200/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_200"/>
+<outline text="SER - Short North Permit Parking District - Recent Updates" type="rss" title="SER - Short North Permit Parking District - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_204/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_204"/>
+<outline text="SER - Childrens Hospital Special Parking District - Recent Updates" type="rss" title="SER - Childrens Hospital Special Parking District - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_205/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_205"/>
+<outline text="SER - Public Service Media List - Recent Updates" type="rss" title="SER - Public Service Media List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_206/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_206"/>
+<outline text="MAY - Linden Updates - Recent Updates" type="rss" title="MAY - Linden Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_208/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_208"/>
+<outline text="SER - Strategic Parking Plan - Recent Updates" type="rss" title="SER - Strategic Parking Plan - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_209/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_209"/>
+<outline text="MAY - Message from the Mayor - Recent Updates" type="rss" title="MAY - Message from the Mayor - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_20/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_20"/>
+<outline text="MAY - Pride - Recent Updates" type="rss" title="MAY - Pride - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_211/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_211"/>
+<outline text="MAY - CITY - MSTU - Recent Updates" type="rss" title="MAY - CITY - MSTU - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_212/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_212"/>
+<outline text="MAY - CITY - MSTU 2 - Recent Updates" type="rss" title="MAY - CITY - MSTU 2 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_213/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_213"/>
+<outline text="ODI - EBO List - Recent Updates" type="rss" title="ODI - EBO List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_214/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_214"/>
+<outline text="ODI - WBE List - Recent Updates" type="rss" title="ODI - WBE List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_215/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_215"/>
+<outline text="ODI - MBR List - Recent Updates" type="rss" title="ODI - MBR List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_216/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_216"/>
+<outline text="BZS - Dishwasher Memo List - Recent Updates" type="rss" title="BZS - Dishwasher Memo List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_217/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_217"/>
+<outline text="ODI – 2019 Inclusion Report Event - Recent Updates" type="rss" title="ODI – 2019 Inclusion Report Event - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_218/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_218"/>
+<outline text="MAY - Affordable Housing Presser - Recent Updates" type="rss" title="MAY - Affordable Housing Presser - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_219/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_219"/>
+<outline text="CELE1 - CelebrateOne - Recent Updates" type="rss" title="CELE1 - CelebrateOne - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_21/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_21"/>
+<outline text="GRN - Sustainable Columbus - Recent Updates" type="rss" title="GRN - Sustainable Columbus - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_220/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_220"/>
+<outline text="ODI -Team - Recent Updates" type="rss" title="ODI -Team - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_222/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_222"/>
+<outline text="BZS Contractors 7-1-19 - Recent Updates" type="rss" title="BZS Contractors 7-1-19 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_224/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_224"/>
+<outline text="BZS - GC and HIC 7-9-19 - Recent Updates" type="rss" title="BZS - GC and HIC 7-9-19 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_225/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_225"/>
+<outline text="SUS - Sustainable Columbus News &amp; Releases - Recent Updates" type="rss" title="SUS - Sustainable Columbus News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_226/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_226"/>
+<outline text="BZS - Sign Erectors - Recent Updates" type="rss" title="BZS - Sign Erectors - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_227/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_227"/>
+<outline text="NEI - August AC Training Invitee List - Recent Updates" type="rss" title="NEI - August AC Training Invitee List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_229/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_229"/>
+<outline text="MAY - Columbus Women’s Commission - Recent Updates" type="rss" title="MAY - Columbus Women’s Commission - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_22/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_22"/>
+<outline text="CELE1 - CelebrateOne_SemiMaster - Recent Updates" type="rss" title="CELE1 - CelebrateOne_SemiMaster - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_233/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_233"/>
+<outline text="NEI - 2019 Fall Building &amp; Zoning Training Invite List - Recent Updates" type="rss" title="NEI - 2019 Fall Building &amp; Zoning Training Invite List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_236/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_236"/>
+<outline text="SER - Broadcast Media List - Recent Updates" type="rss" title="SER - Broadcast Media List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_238/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_238"/>
+<outline text="MAY - Media List - Recent Updates" type="rss" title="MAY - Media List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_23/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_23"/>
+<outline text="MAY - 2020 Census Communications Subcommittee - Recent Updates" type="rss" title="MAY - 2020 Census Communications Subcommittee - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_241/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_241"/>
+<outline text="ODI - Tom Joyner List - Recent Updates" type="rss" title="ODI - Tom Joyner List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_242/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_242"/>
+<outline text="DPU – Blueprint Columbus - Recent Updates" type="rss" title="DPU – Blueprint Columbus - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_243/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_243"/>
+<outline text="AUD - Admissions Tax - Recent Updates" type="rss" title="AUD - Admissions Tax - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_246/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_246"/>
+<outline text="SER - Connect Columbus Updates - Recent Updates" type="rss" title="SER - Connect Columbus Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_247/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_247"/>
+<outline text="SER - SPP Downtown Webinar - Recent Updates" type="rss" title="SER - SPP Downtown Webinar - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_248/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_248"/>
+<outline text="CELE1 - CelebrateOne VIP List - Recent Updates" type="rss" title="CELE1 - CelebrateOne VIP List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_249/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_249"/>
+<outline text="SMRT - Smart Columbus - Recent Updates" type="rss" title="SMRT - Smart Columbus - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_24/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_24"/>
+<outline text="SER - SPP Downtown Webinar - SID List - Recent Updates" type="rss" title="SER - SPP Downtown Webinar - SID List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_250/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_250"/>
+<outline text="ODI - ConnectUS Conference - Recent Updates" type="rss" title="ODI - ConnectUS Conference - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_251/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_251"/>
+<outline text="MAY - ConnectUS (Opening Reception) - Recent Updates" type="rss" title="MAY - ConnectUS (Opening Reception) - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_252/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_252"/>
+<outline text="MAY - ConnectUS Reception List 2 - Recent Updates" type="rss" title="MAY - ConnectUS Reception List 2 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_253/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_253"/>
+<outline text="NEI - September AC Training List - Recent Updates" type="rss" title="NEI - September AC Training List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_255/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_255"/>
+<outline text="SER - Diversity Outreach RSVP List - Recent Updates" type="rss" title="SER - Diversity Outreach RSVP List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_257/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_257"/>
+<outline text="SER - Downtown SPP Focus Group - Govt Agencies - Recent Updates" type="rss" title="SER - Downtown SPP Focus Group - Govt Agencies - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_258/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_258"/>
+<outline text="SER - Downtown SPP Focus Group - Hospitality - Recent Updates" type="rss" title="SER - Downtown SPP Focus Group - Hospitality - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_259/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_259"/>
+<outline text="SER - Downtown SPP Focus Group - Employers - Recent Updates" type="rss" title="SER - Downtown SPP Focus Group - Employers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_260/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_260"/>
+<outline text="SER - Downtown SPP Focus Group - Education - Recent Updates" type="rss" title="SER - Downtown SPP Focus Group - Education - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_261/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_261"/>
+<outline text="R&amp;P - Urban Forestry Master Plan Updates - Recent Updates" type="rss" title="R&amp;P - Urban Forestry Master Plan Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_262/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_262"/>
+<outline text="R&amp;P - Lou Berliner Sports Park Permit Customers - Recent Updates" type="rss" title="R&amp;P - Lou Berliner Sports Park Permit Customers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_263/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_263"/>
+<outline text="CCC - R-PACE - Recent Updates" type="rss" title="CCC - R-PACE - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_264/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_264"/>
+<outline text="NEI - 2019 MBK Conference - Recent Updates" type="rss" title="NEI - 2019 MBK Conference - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_266/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_266"/>
+<outline text="NEI - Area Commissioner Training Strategic Planning &amp; Goal Setting - Recent Updates" type="rss" title="NEI - Area Commissioner Training Strategic Planning &amp; Goal Setting - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_267/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_267"/>
+<outline text="ODI - Crew Bids - Recent Updates" type="rss" title="ODI - Crew Bids - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_268/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_268"/>
+<outline text="ODI - Crew Bids Open - Recent Updates" type="rss" title="ODI - Crew Bids Open - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_269/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_269"/>
+<outline text="CCC - Council Public Meeting Notifications - Recent Updates" type="rss" title="CCC - Council Public Meeting Notifications - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_26/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_26"/>
+<outline text="R&amp;P - Youth Sports Programming Updates - Recent Updates" type="rss" title="R&amp;P - Youth Sports Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_270/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_270"/>
+<outline text="NEI - MBK Partners - Recent Updates" type="rss" title="NEI - MBK Partners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_273/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_273"/>
+<outline text="MAY - Columbus Counts Subcommittee Chairs &amp; Key Stakeholders - Recent Updates" type="rss" title="MAY - Columbus Counts Subcommittee Chairs &amp; Key Stakeholders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_279/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_279"/>
+<outline text="R&amp;P - Fitness, Health and Wellness Programming Updates - Recent Updates" type="rss" title="R&amp;P - Fitness, Health and Wellness Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_280/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_280"/>
+<outline text="MAY - Mayor's Community Day RSVP - Recent Updates" type="rss" title="MAY - Mayor's Community Day RSVP - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_281/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_281"/>
+<outline text="DEV – Small Business Agenda - Recent Updates" type="rss" title="DEV – Small Business Agenda - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_282/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_282"/>
+<outline text="DEV - Economic Development Division - Recent Updates" type="rss" title="DEV - Economic Development Division - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_283/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_283"/>
+<outline text="DEV - Small Business Advisory Committee - Recent Updates" type="rss" title="DEV - Small Business Advisory Committee - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_284/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_284"/>
+<outline text="DEV - Small Business Advisory Committee - Project Team Only - Recent Updates" type="rss" title="DEV - Small Business Advisory Committee - Project Team Only - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_285/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_285"/>
+<outline text="SER - Short North Permit Renewal 2020 – Residents - Recent Updates" type="rss" title="SER - Short North Permit Renewal 2020 – Residents - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_286/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_286"/>
+<outline text="SER - Short North Permit Renewal 2020 – Commercial - Recent Updates" type="rss" title="SER - Short North Permit Renewal 2020 – Commercial - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_287/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_287"/>
+<outline text="NEI Building &amp; Zoning Training Invite List - Recent Updates" type="rss" title="NEI Building &amp; Zoning Training Invite List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_288/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_288"/>
+<outline text="SER - NW Corridor Stakeholders – Group 1 - Recent Updates" type="rss" title="SER - NW Corridor Stakeholders – Group 1 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_289/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_289"/>
+<outline text="DEV - Development News &amp; Releases - Recent Updates" type="rss" title="DEV - Development News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_28/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_28"/>
+<outline text="SER - NW Corridor Stakeholders – Group 2 - Recent Updates" type="rss" title="SER - NW Corridor Stakeholders – Group 2 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_290/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_290"/>
+<outline text="SOTC Reception Invite List - Recent Updates" type="rss" title="SOTC Reception Invite List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_293/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_293"/>
+<outline text="AUD - Dayforce Announcements - Recent Updates" type="rss" title="AUD - Dayforce Announcements - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_294/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_294"/>
+<outline text="R&amp;P - West Case Road Property Updates - Recent Updates" type="rss" title="R&amp;P - West Case Road Property Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_295/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_295"/>
+<outline text="R&amp;P - Volunteer Information - Recent Updates" type="rss" title="R&amp;P - Volunteer Information - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_296/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_296"/>
+<outline text="R&amp;P - Athletic Complex Customers - Recent Updates" type="rss" title="R&amp;P - Athletic Complex Customers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_297/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_297"/>
+<outline text="R&amp;P - Aquatics Programming Updates - Recent Updates" type="rss" title="R&amp;P - Aquatics Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_298/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_298"/>
+<outline text="R&amp;P - CRPD Fitness Camp - Recent Updates" type="rss" title="R&amp;P - CRPD Fitness Camp - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_299/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_299"/>
+<outline text="DEV - Meeting notifications for residents in Planning neighborhoods - Recent Updates" type="rss" title="DEV - Meeting notifications for residents in Planning neighborhoods - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_29/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_29"/>
+<outline text="R&amp;P - Sports - SportsTalkColumbus Podcast - Recent Updates" type="rss" title="R&amp;P - Sports - SportsTalkColumbus Podcast - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_300/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_300"/>
+<outline text="CWC-Gender Equity Participants - Recent Updates" type="rss" title="CWC-Gender Equity Participants - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_302/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_302"/>
+<outline text="MAY-CWC Commisssioners - Recent Updates" type="rss" title="MAY-CWC Commisssioners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_303/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_303"/>
+<outline text="MAY-CWC Adopter List - Recent Updates" type="rss" title="MAY-CWC Adopter List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_304/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_304"/>
+<outline text="R&amp;P - Donors - Recent Updates" type="rss" title="R&amp;P - Donors - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_308/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_308"/>
+<outline text="ALL - City of Columbus Staff - Civilian - Recent Updates" type="rss" title="ALL - City of Columbus Staff - Civilian - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_310/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_310"/>
+<outline text="CWC Commitment Adoptees - Recent Updates" type="rss" title="CWC Commitment Adoptees - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_311/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_311"/>
+<outline text="R&amp;P - All Staff - Recent Updates" type="rss" title="R&amp;P - All Staff - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_313/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_313"/>
+<outline text="EDU-Eligible Child Care Recovery and Stabilization Grant - Recent Updates" type="rss" title="EDU-Eligible Child Care Recovery and Stabilization Grant - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_314/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_314"/>
+<outline text="SERV - Little Tuttle Way - Recent Updates" type="rss" title="SERV - Little Tuttle Way - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_316/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_316"/>
+<outline text="CCC - Councilmember Favor's Forum - Recent Updates" type="rss" title="CCC - Councilmember Favor's Forum - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_318/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_318"/>
+<outline text="CWC-2020 Commissioners - Recent Updates" type="rss" title="CWC-2020 Commissioners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_319/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_319"/>
+<outline text="CWC-Financial Empowerment - Recent Updates" type="rss" title="CWC-Financial Empowerment - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_321/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_321"/>
+<outline text="CARES Act Utility Bill Assistance - Recent Updates" type="rss" title="CARES Act Utility Bill Assistance - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_322/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_322"/>
+<outline text="DEV - Forward to businesses message_Nov 2020 Small Business Survey_OSBED - Recent Updates" type="rss" title="DEV - Forward to businesses message_Nov 2020 Small Business Survey_OSBED - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_323/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_323"/>
+<outline text="DEV - Businesses_Nov 2020 Small Business Agenda Survey_OSBED - Recent Updates" type="rss" title="DEV - Businesses_Nov 2020 Small Business Agenda Survey_OSBED - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_324/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_324"/>
+<outline text="DEV - ESOs Survey and forward to small business message_Nov 2020_OSBED - Recent Updates" type="rss" title="DEV - ESOs Survey and forward to small business message_Nov 2020_OSBED - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_325/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_325"/>
+<outline text="MLEN - Recent Updates" type="rss" title="MLEN - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_327/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_327"/>
+<outline text="MLEN 2 - Recent Updates" type="rss" title="MLEN 2 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_329/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_329"/>
+<outline text="DEV - Economic Development activities - Recent Updates" type="rss" title="DEV - Economic Development activities - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_32/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_32"/>
+<outline text="Franklin County Providers - Recent Updates" type="rss" title="Franklin County Providers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_331/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_331"/>
+<outline text="CPH Message - Recent Updates" type="rss" title="CPH Message - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_332/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_332"/>
+<outline text="R &amp; P - Sports Organizations - Recent Updates" type="rss" title="R &amp; P - Sports Organizations - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_334/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_334"/>
+<outline text="R &amp; P - Sports Orgs Reminder - Recent Updates" type="rss" title="R &amp; P - Sports Orgs Reminder - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_336/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_336"/>
+<outline text="R&amp;P - Sports - CRPDSports Email - Recent Updates" type="rss" title="R&amp;P - Sports - CRPDSports Email - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_337/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_337"/>
+<outline text="R &amp; P - Community Sports Park - Recent Updates" type="rss" title="R &amp; P - Community Sports Park - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_339/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_339"/>
+<outline text="DEV - Updates on relevant code enforcement actions in specific areas - Recent Updates" type="rss" title="DEV - Updates on relevant code enforcement actions in specific areas - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_33/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_33"/>
+<outline text="BZS - Zoning Updates - Recent Updates" type="rss" title="BZS - Zoning Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_340/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_340"/>
+<outline text="SUS - Sustainable Columbus Climate Action Plan - Recent Updates" type="rss" title="SUS - Sustainable Columbus Climate Action Plan - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_341/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_341"/>
+<outline text="R &amp; P - Media Releases - Recent Updates" type="rss" title="R &amp; P - Media Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_342/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_342"/>
+<outline text="MAY - Financial Navigator Program - Recent Updates" type="rss" title="MAY - Financial Navigator Program - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_344/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_344"/>
+<outline text="DEV - SB_2020_COVIDRGwithPPEG_R1_ NS Survey_032021 - Recent Updates" type="rss" title="DEV - SB_2020_COVIDRGwithPPEG_R1_ NS Survey_032021 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_346/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_346"/>
+<outline text="R &amp; P - Aquatics Capital Improvement Plan - Recent Updates" type="rss" title="R &amp; P - Aquatics Capital Improvement Plan - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_347/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_347"/>
+<outline text="R &amp; P - Broad Street Arts and Senior Campus - Recent Updates" type="rss" title="R &amp; P - Broad Street Arts and Senior Campus - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_348/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_348"/>
+<outline text="CARES Act Small Business fund recipients - Recent Updates" type="rss" title="CARES Act Small Business fund recipients - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_349/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_349"/>
+<outline text="DOT - CTV This Week - Recent Updates" type="rss" title="DOT - CTV This Week - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_34/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_34"/>
+<outline text="R &amp; P - 2021 Memorial Day Pools - Recent Updates" type="rss" title="R &amp; P - 2021 Memorial Day Pools - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_350/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_350"/>
+<outline text="R &amp; P - Tuttle Pool Monday - Recent Updates" type="rss" title="R &amp; P - Tuttle Pool Monday - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_351/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_351"/>
+<outline text="Constituents-Police Chief Search - Recent Updates" type="rss" title="Constituents-Police Chief Search - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_352/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_352"/>
+<outline text="R &amp; P - Tuttle June 7 - Recent Updates" type="rss" title="R &amp; P - Tuttle June 7 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_353/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_353"/>
+<outline text="SER - University District - Recent Updates" type="rss" title="SER - University District - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_354/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_354"/>
+<outline text="Interfaith Leaders Meeting - Recent Updates" type="rss" title="Interfaith Leaders Meeting - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_355/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_355"/>
+<outline text="R&amp;P - Food Office - Recent Updates" type="rss" title="R&amp;P - Food Office - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_356/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_356"/>
+<outline text="CCC - Councilmember Dorans' Forum - Recent Updates" type="rss" title="CCC - Councilmember Dorans' Forum - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_357/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_357"/>
+<outline text="MAY-Interfaith Leaders Oct 2021 - Recent Updates" type="rss" title="MAY-Interfaith Leaders Oct 2021 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_358/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_358"/>
+<outline text="Hispanic/Latinx Leaders - Recent Updates" type="rss" title="Hispanic/Latinx Leaders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_359/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_359"/>
+<outline text="SER - WarriorWatch - Recent Updates" type="rss" title="SER - WarriorWatch - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_35/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_35"/>
+<outline text="30 x30 - Recent Updates" type="rss" title="30 x30 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_360/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_360"/>
+<outline text="Columbus Women's Commission - Thank You - Recent Updates" type="rss" title="Columbus Women's Commission - Thank You - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_362/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_362"/>
+<outline text="CWC November Webinar 2021 - Recent Updates" type="rss" title="CWC November Webinar 2021 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_364/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_364"/>
+<outline text="R&amp;P - Community Centers Programming Updates - Recent Updates" type="rss" title="R&amp;P - Community Centers Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_365/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_365"/>
+<outline text="DPU – Blueprint Columbus Clintonville 1 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Clintonville 1 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_367/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_367"/>
+<outline text="DPU – Blueprint Columbus North Linden 1 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus North Linden 1 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_368/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_368"/>
+<outline text="DPU — Blueprint Columbus Hilltop 1 Construction Updates - Recent Updates" type="rss" title="DPU — Blueprint Columbus Hilltop 1 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_369/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_369"/>
+<outline text="SER - Public Service News &amp; Releases - Recent Updates" type="rss" title="SER - Public Service News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_36/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_36"/>
+<outline text="DPU — Blueprint Columbus Miller-Kelton Construction Updates - Recent Updates" type="rss" title="DPU — Blueprint Columbus Miller-Kelton Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_370/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_370"/>
+<outline text="CWC November Thank You 2021 - Recent Updates" type="rss" title="CWC November Thank You 2021 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_371/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_371"/>
+<outline text="Budget Preview Invitation - Recent Updates" type="rss" title="Budget Preview Invitation - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_372/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_372"/>
+<outline text="ARP Portal Contacts - Recent Updates" type="rss" title="ARP Portal Contacts - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_373/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_373"/>
+<outline text="R and P all staff - Recent Updates" type="rss" title="R and P all staff - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_374/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_374"/>
+<outline text="SER - Vision Zero Columbus - Recent Updates" type="rss" title="SER - Vision Zero Columbus - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_375/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_375"/>
+<outline text="SER - 2021 Press List - Recent Updates" type="rss" title="SER - 2021 Press List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_376/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_376"/>
+<outline text="R&amp;P - Sports - Youth Basketball League Parents - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Basketball League Parents - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_377/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_377"/>
+<outline text="HR – Small Businesses - Recent Updates" type="rss" title="HR – Small Businesses - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_378/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_378"/>
+<outline text="HR – Enterprise Customers - Recent Updates" type="rss" title="HR – Enterprise Customers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_379/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_379"/>
+<outline text="SER - Short North Streetscape Improvements - Recent Updates" type="rss" title="SER - Short North Streetscape Improvements - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_37/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_37"/>
+<outline text="R &amp; P - Commissioners and City Leadership - Recent Updates" type="rss" title="R &amp; P - Commissioners and City Leadership - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_380/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_380"/>
+<outline text="R&amp;P - GolfNow Email List - Recent Updates" type="rss" title="R&amp;P - GolfNow Email List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_385/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_385"/>
+<outline text="HEA - Public Health News and Events - Recent Updates" type="rss" title="HEA - Public Health News and Events - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_386/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_386"/>
+<outline text="CCC - Councilmember Barroso de Padilla's Forum - Recent Updates" type="rss" title="CCC - Councilmember Barroso de Padilla's Forum - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_387/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_387"/>
+<outline text="R&amp;P - Sports - Youth Soccer League Parents - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Soccer League Parents - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_388/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_388"/>
+<outline text="Message from Director Clark - Recent Updates" type="rss" title="Message from Director Clark - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_389/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_389"/>
+<outline text="DPU - Public Utilities News &amp; Releases - Recent Updates" type="rss" title="DPU - Public Utilities News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_38/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_38"/>
+<outline text="DPU – Blueprint Columbus 5th by NW Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus 5th by NW Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_390/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_390"/>
+<outline text="DPU – Blueprint Columbus Clintonville II Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Clintonville II Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_391/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_391"/>
+<outline text="DPU – Blueprint Columbus Clintonville III Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Clintonville III Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_392/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_392"/>
+<outline text="DPU – Blueprint Columbus Hilltop 2 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Hilltop 2 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_393/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_393"/>
+<outline text="DPU – Blueprint Columbus Hilltop 3 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Hilltop 3 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_394/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_394"/>
+<outline text="DPU – Blueprint Columbus Hilltop 4 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Hilltop 4 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_395/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_395"/>
+<outline text="DPU – Blueprint Columbus James Livingston 1 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus James Livingston 1 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_396/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_396"/>
+<outline text="DPU – Blueprint Columbus James Livingston 2 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus James Livingston 2 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_397/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_397"/>
+<outline text="DPU – Blueprint Columbus James Livingston 3 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus James Livingston 3 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_398/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_398"/>
+<outline text="DPU – Blueprint Columbus James Livingston 4 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus James Livingston 4 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_399/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_399"/>
+<outline text="DPU – Blueprint Columbus James Livingston 5 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus James Livingston 5 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_400/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_400"/>
+<outline text="DPU – Blueprint Columbus Near South Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Near South Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_401/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_401"/>
+<outline text="DPU – Blueprint Columbus North Linden 2 Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus North Linden 2 Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_402/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_402"/>
+<outline text="DPU – Blueprint Columbus Old Beechwold Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Old Beechwold Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_403/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_403"/>
+<outline text="DPU – Blueprint Columbus Plum Ridge Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus Plum Ridge Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_404/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_404"/>
+<outline text="DPU – Blueprint Columbus South Linden Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus South Linden Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_405/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_405"/>
+<outline text="DPU – Blueprint Columbus West Franklinton Construction Updates - Recent Updates" type="rss" title="DPU – Blueprint Columbus West Franklinton Construction Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_406/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_406"/>
+<outline text="R &amp; P - Champions for PLAY - Recent Updates" type="rss" title="R &amp; P - Champions for PLAY - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_407/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_407"/>
+<outline text="R &amp; P - Summer Camp - Recent Updates" type="rss" title="R &amp; P - Summer Camp - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_408/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_408"/>
+<outline text="SER - Keep Columbus Beautiful (KCB) - Recent Updates" type="rss" title="SER - Keep Columbus Beautiful (KCB) - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_409/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_409"/>
+<outline text="EDU - Child Care Providers - Recent Updates" type="rss" title="EDU - Child Care Providers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_40/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_40"/>
+<outline text="SER – Columbus Apartment Managers - Recent Updates" type="rss" title="SER – Columbus Apartment Managers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_411/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_411"/>
+<outline text="CCC - Councilmember Emmanuel V. Remy's Forum - Recent Updates" type="rss" title="CCC - Councilmember Emmanuel V. Remy's Forum - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_412/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_412"/>
+<outline text="CWC Commitment Kick-off - Recent Updates" type="rss" title="CWC Commitment Kick-off - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_413/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_413"/>
+<outline text="R&amp;P - Adult Tennis League - Recent Updates" type="rss" title="R&amp;P - Adult Tennis League - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_414/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_414"/>
+<outline text="HOF Invitation - Recent Updates" type="rss" title="HOF Invitation - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_415/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_415"/>
+<outline text="BZS - Active Professional Contractors 2022 - Recent Updates" type="rss" title="BZS - Active Professional Contractors 2022 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_416/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_416"/>
+<outline text="HEA - ALL Public Health Employees - Recent Updates" type="rss" title="HEA - ALL Public Health Employees - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_417/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_417"/>
+<outline text="R&amp;P - Sports - Youth Flag Football League Parents - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Flag Football League Parents - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_418/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_418"/>
+<outline text="EDU - After School Program Providers - Recent Updates" type="rss" title="EDU - After School Program Providers - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_41/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_41"/>
+<outline text="R&amp;P - Sports - Youth Baseball League Parents - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Baseball League Parents - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_423/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_423"/>
+<outline text="R&amp;P - Sports - Youth Tennis - Recent Updates" type="rss" title="R&amp;P - Sports - Youth Tennis - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_424/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_424"/>
+<outline text="SER - 2022 DPS Press List - Recent Updates" type="rss" title="SER - 2022 DPS Press List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_425/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_425"/>
+<outline text="R &amp; P 2022 Champions for PLAY - Recent Updates" type="rss" title="R &amp; P 2022 Champions for PLAY - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_426/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_426"/>
+<outline text="R &amp; P - Adopt a Center - Recent Updates" type="rss" title="R &amp; P - Adopt a Center - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_427/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_427"/>
+<outline text="HR - People Team - Recent Updates" type="rss" title="HR - People Team - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_428/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_428"/>
+<outline text="GRN - Greenspot Household - Recent Updates" type="rss" title="GRN - Greenspot Household - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_42/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_42"/>
+<outline text="ODI - Internal Stakeholders - Recent Updates" type="rss" title="ODI - Internal Stakeholders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_431/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_431"/>
+<outline text="CWC Onboarding Webinar Aug 2022 - Recent Updates" type="rss" title="CWC Onboarding Webinar Aug 2022 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_432/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_432"/>
+<outline text="ODI - Special Projects - Recent Updates" type="rss" title="ODI - Special Projects - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_433/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_433"/>
+<outline text="Priscilla Tyson Naming - Recent Updates" type="rss" title="Priscilla Tyson Naming - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_434/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_434"/>
+<outline text="Priscilla Tyson Naming - Council - Recent Updates" type="rss" title="Priscilla Tyson Naming - Council - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_436/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_436"/>
+<outline text="Rec and Park Commissioners - Recent Updates" type="rss" title="Rec and Park Commissioners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_437/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_437"/>
+<outline text="Tyson Naming - R&amp;P - Recent Updates" type="rss" title="Tyson Naming - R&amp;P - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_438/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_438"/>
+<outline text="HEA - Public Health News &amp; Releases - Recent Updates" type="rss" title="HEA - Public Health News &amp; Releases - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_43/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_43"/>
+<outline text="2022 BB SB TB Survey - Recent Updates" type="rss" title="2022 BB SB TB Survey - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_440/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_440"/>
+<outline text="HEA - Public Health Special Events - Recent Updates" type="rss" title="HEA - Public Health Special Events - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_44/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_44"/>
+<outline text="ODI - Supplier Diversity - Recent Updates" type="rss" title="ODI - Supplier Diversity - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_46/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_46"/>
+<outline text="ODI - Workforce Diversity - Recent Updates" type="rss" title="ODI - Workforce Diversity - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_47/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_47"/>
+<outline text="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" type="rss" title="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_60/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_60"/>
+<outline text="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" type="rss" title="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_63/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_63"/>
+<outline text="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" type="rss" title="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_64/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_64"/>
+<outline text="R&amp;P - Facilities, Parks and Trails Updates, and Closures - Recent Updates" type="rss" title="R&amp;P - Facilities, Parks and Trails Updates, and Closures - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_65/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_65"/>
+<outline text="R&amp;P - Adult Sports Programming Updates - Recent Updates" type="rss" title="R&amp;P - Adult Sports Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_66/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_66"/>
+<outline text="R&amp;P - Cultural Arts Center Programming Updates - Recent Updates" type="rss" title="R&amp;P - Cultural Arts Center Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_70/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_70"/>
+<outline text="CIV - City Employment News - Recent Updates" type="rss" title="CIV - City Employment News - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_71/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_71"/>
+<outline text="GRN – GreenSpot Business - Recent Updates" type="rss" title="GRN – GreenSpot Business - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_72/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_72"/>
+<outline text="NEI - Area Commission - Recent Updates" type="rss" title="NEI - Area Commission - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_73/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_73"/>
+<outline text="NEI - New American Leadership Academy - Recent Updates" type="rss" title="NEI - New American Leadership Academy - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_75/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_75"/>
+<outline text="NEI - 311 - Recent Updates" type="rss" title="NEI - 311 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_76/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_76"/>
+<outline text="NEI - Neighborhood Transformation - Recent Updates" type="rss" title="NEI - Neighborhood Transformation - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_77/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_77"/>
+<outline text="NEI - Neighborhood Pride - Recent Updates" type="rss" title="NEI - Neighborhood Pride - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_78/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_78"/>
+<outline text="NEI - Neighborhood News &amp; Events - Recent Updates" type="rss" title="NEI - Neighborhood News &amp; Events - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_79/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_79"/>
+<outline text="NEI - CRC Commissioners - Recent Updates" type="rss" title="NEI - CRC Commissioners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_80/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_80"/>
+        </outline>
 	</body>
 </opml>
