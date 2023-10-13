@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus GovDelivery RSS Feeds</title>
 		<dateCreated>24 Oct 2022</dateCreated>
-		<dateModified>25 Aug 2023</dateModified>
+		<dateModified>13 Oct 2023</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -246,7 +246,7 @@
 <outline text="GRN - Greenspot Household - Recent Updates" type="rss" title="GRN - Greenspot Household - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_42/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_42"/>
 <outline text="ODI - Internal Stakeholders - Recent Updates" type="rss" title="ODI - Internal Stakeholders - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_431/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_431"/>
 <outline text="CWC Onboarding Webinar Aug 2022 - Recent Updates" type="rss" title="CWC Onboarding Webinar Aug 2022 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_432/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_432"/>
-<outline text="ODI - Special Projects - Recent Updates" type="rss" title="ODI - Special Projects - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_433/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_433"/>
+<outline text="ODI - Aug. 2023 Networking Event Attendees - Recent Updates" type="rss" title="ODI - Aug. 2023 Networking Event Attendees - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_433/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_433"/>
 <outline text="Priscilla Tyson Naming - Recent Updates" type="rss" title="Priscilla Tyson Naming - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_434/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_434"/>
 <outline text="Priscilla Tyson Naming - Council - Recent Updates" type="rss" title="Priscilla Tyson Naming - Council - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_436/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_436"/>
 <outline text="Rec and Park Commissioners - Recent Updates" type="rss" title="Rec and Park Commissioners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_437/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_437"/>
@@ -279,6 +279,10 @@
 <outline text="ODI - Supplier Diversity - Recent Updates" type="rss" title="ODI - Supplier Diversity - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_46/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_46"/>
 <outline text="Granicus Training Topic - Recent Updates" type="rss" title="Granicus Training Topic - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_470/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_470"/>
 <outline text="SER - Food Waste - Recent Updates" type="rss" title="SER - Food Waste - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_472/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_472"/>
+<outline text="SEC - Hammond Center Occupants - Recent Updates" type="rss" title="SEC - Hammond Center Occupants - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_475/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_475"/>
+<outline text="ODI - Oct 2023 Networking Event Registrants - Recent Updates" type="rss" title="ODI - Oct 2023 Networking Event Registrants - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_476/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_476"/>
+<outline text="ODI - Oct 2023 Networking Event Attendees - Recent Updates" type="rss" title="ODI - Oct 2023 Networking Event Attendees - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_477/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_477"/>
+<outline text="DPU – Compost Facility - Recent Updates" type="rss" title="DPU – Compost Facility - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_478/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_478"/>
 <outline text="ODI - Workforce Diversity - Recent Updates" type="rss" title="ODI - Workforce Diversity - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_47/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_47"/>
 <outline text="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" type="rss" title="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_60/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_60"/>
 <outline text="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" type="rss" title="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_63/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_63"/>
