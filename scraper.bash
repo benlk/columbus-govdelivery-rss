@@ -8,6 +8,6 @@ for num in {400..599}; do
 	FILE="./rss/OHCCC_$num.rss"
 	echo $URL
 	CURL=$(curl -sS --create-dirs --fail "$URL" --output "$FILE" )
-	sleep 10
+	sleep 1
 
 done
