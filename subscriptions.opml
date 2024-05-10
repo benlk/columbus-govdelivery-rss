@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus GovDelivery RSS Feeds</title>
 		<dateCreated>24 Oct 2022</dateCreated>
-		<dateModified>18 Apr 2024</dateModified>
+		<dateModified>10 May 2024</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -309,6 +309,11 @@
 <outline text="CELE1 - CENTRAL AND WEST SIDE CONTACTS - Recent Updates" type="rss" title="CELE1 - CENTRAL AND WEST SIDE CONTACTS - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_506/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_506"/>
 <outline text="CELE1 - EASTSIDE CONTACTS - Recent Updates" type="rss" title="CELE1 - EASTSIDE CONTACTS - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_507/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_507"/>
 <outline text="EDU-2024-LOI - Recent Updates" type="rss" title="EDU-2024-LOI - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_508/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_508"/>
+<outline text="2024 State of City Invitation List - Recent Updates" type="rss" title="2024 State of City Invitation List - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_509/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_509"/>
+<outline text="BZS - Design Professionals - Recent Updates" type="rss" title="BZS - Design Professionals - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_512/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_512"/>
+<outline text="R &amp; P 2024 Champions for PLAY New - Recent Updates" type="rss" title="R &amp; P 2024 Champions for PLAY New - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_516/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_516"/>
+<outline text="R &amp; P - New 2024 Champions for PLAY - Recent Updates" type="rss" title="R &amp; P - New 2024 Champions for PLAY - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_517/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_517"/>
+<outline text="Food Office Newsletters - Recent Updates" type="rss" title="Food Office Newsletters - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_519/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_519"/>
 <outline text="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" type="rss" title="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_60/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_60"/>
 <outline text="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" type="rss" title="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_63/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_63"/>
 <outline text="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" type="rss" title="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_64/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_64"/>
