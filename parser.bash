@@ -1,9 +1,12 @@
 #!/bin/bash
+#
+set -euo pipefail
 
 echo '"Feed Number","Title","Link","Description","Feed URL","Newsletter Signup URL"'
 
 for file in ./rss/*.rss
 do
+	>&2 echo $file
 	# These are already double-quoted
 	TITLE=$(cat $file | xq .rss.channel.title )
 	LINK=$(cat $file | xq .rss.channel.link )

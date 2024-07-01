@@ -2,6 +2,8 @@
 
 # https://stackoverflow.com/a/24967128
 
+set -euo pipefail
+
 for num in {400..599}; do
 	# build URL and try to download
 	URL="https://public.govdelivery.com/topics/OHCCC_$num/feed.rss"
