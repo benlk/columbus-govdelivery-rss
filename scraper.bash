@@ -2,7 +2,7 @@
 
 # https://stackoverflow.com/a/24967128
 
-set -euo pipefail
+set -u
 
 for num in {400..599}; do
 	# build URL and try to download
