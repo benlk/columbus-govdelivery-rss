@@ -12,7 +12,7 @@
 
 **How**: The US Coast Guard [published a helpful list of signup URLs and RSS feed URLs](https://www.navcen.uscg.gov/subscribe-email-rss-feeds) for their notices. I compared the two URLs and discovered that, In a signup URL like `https://public.govdelivery.com/accounts/USDHSCG/subscriber/new?topic_id=USDHSCG_65`, the topic ID `USDHSCG_65` is repeated in the RSS feed URL `https://public.govdelivery.com/topics/USDHSCG_65/feed.rss`.
 
-Columbus' website frequently links to GovDelivery signup URLs. For example, [the City Council webpage](https://www.columbus.gov/council/) has a link to `https://public.govdelivery.com/accounts/OHCCC/subscriber/topics?qsp=OHCCC_1`, and searching `columbus.gov` using its search feature revealed several more. From this, I determined that Columbus' newsletters matched the Coast Guard's URL structure, and that Columbus' account ID was `OHCCC`. This string is also visible in the headers of GovDelivery emails as `X-Accountcode: OHCCC`.
+Columbus' website frequently links to GovDelivery signup URLs. For example, [the old City Council webpage](https://web.archive.org/web/20221215103240/https://www.columbus.gov/council/) has a link to `https://public.govdelivery.com/accounts/OHCCC/subscriber/topics?qsp=OHCCC_1`, and searching `columbus.gov` using its search feature revealed several more. From this, I determined that Columbus' newsletters matched the Coast Guard's URL structure, and that Columbus' account ID was `OHCCC`. This string is also visible in the headers of GovDelivery emails as `X-Accountcode: OHCCC`.
 
 [`feeds.csv`](./feeds.csv) is obtained by requesting all possible RSS feeds from 1 to 999 using [`scraper.bash`](./scraper.bash). The feeds are downloaded to the folder `./rss/`. To generate the CSV, [`parser.bash`](./parser.bash) reads all downloaded [RSS files](https://en.wikipedia.org/wiki/RSS) using [xq](https://www.ashbyhq.com/blog/engineering/jq-and-yq) to parse them for their title and other characteristics.
 
@@ -27,7 +27,7 @@ The list is contained in `feeds.csv`, which is a [Comma-Separated Value](https:/
 - Most-Recent Date: This is extracted from the RSS feed's first feed item, if it exists. Not all feeds have feed items; not all feed `<item>`s always have dates. (Or my parser is wrong. Feel free to suggest a fix.)
 - Number of items: This is how many items are in the feed.
 
-If you find interesting feeds in this list, tell the world, but also tell me on Twitter [@benlkeith](https://twitter.com/benlkeith).
+If you find interesting feeds in this list, tell the world, but also [tell me on social media](https://benlk.com/socials/).
 
 ## Oddities
 
