@@ -41,8 +41,7 @@ Many feeds have no items. I _suspect_ that this is because:
 
 ## Updating instructions
 
-1. `bash ./scraper.bash`
-2. `bash ./parser.bash > feeds.csv`
-3. `php subscriptions.opml.php > subscriptions.opml`
-4. Update `changelog.md`
-5. Commit changes and push
+1. `bash ./run.bash`
+2. Review output from `git diff`
+3. Update `changelog.md` if necessary
+4. Commit changes and push
