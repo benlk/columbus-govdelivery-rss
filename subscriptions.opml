@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus GovDelivery RSS Feeds</title>
 		<dateCreated>24 Oct 2022</dateCreated>
-		<dateModified>14 Oct 2025</dateModified>
+		<dateModified>10 Nov 2025</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -375,6 +375,7 @@
 <outline text="SER - German Village Parking (Res) - Recent Updates" type="rss" title="SER - German Village Parking (Res) - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_595/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_595"/>
 <outline text="SER - E Livingston Ave (Alum Creek - James Road) - Recent Updates" type="rss" title="SER - E Livingston Ave (Alum Creek - James Road) - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_596/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_596"/>
 <outline text="ODI- Columbus Foundation Big table Discussion Event - Recent Updates" type="rss" title="ODI- Columbus Foundation Big table Discussion Event - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_597/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_597"/>
+<outline text="ODI- Group 2 of Columbus Foundation Big table Discussion Event - Recent Updates" type="rss" title="ODI- Group 2 of Columbus Foundation Big table Discussion Event - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_599/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_599"/>
 <outline text="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" type="rss" title="SAFE/SS Mobile Food Vending Licensing &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_60/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_60"/>
 <outline text="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" type="rss" title="SAFE/SS Vehicle for Hire Licensing &amp; Metering &gt; - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_63/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_63"/>
 <outline text="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" type="rss" title="R&amp;P - Recreation and Parks Weekly Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_64/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_64"/>
