@@ -4,7 +4,7 @@
 
 set -u
 
-for num in {500..699}; do
+for num in {610..699}; do
 	# build URL and try to download
 	URL="https://public.govdelivery.com/topics/OHCCC_$num/feed.rss"
 	FILE="./rss/OHCCC_$num.rss"
