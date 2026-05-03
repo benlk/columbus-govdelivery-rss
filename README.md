@@ -39,6 +39,14 @@ Many feeds have no items. I _suspect_ that this is because:
 - there's a cutoff in the query used to generate a feed, before which the RSS feed won't show public webpage URLs for bulletins sent via GovDelivery
 - GovDelivery may not have had the public webpage URL feature before sometime in 2020.
 
+## Installation
+
+1. Clone this repo.
+2. Install [yq](https://github.com/kislyuk/yq), php, and wget.
+3. In `scraper.bash`, set the start feed number to `001`.
+4. Run `bash ./scrapher.bash` to populate your `feeds/` directory.
+5. Reset edits to `scraper.bash`
+
 ## Updating instructions
 
 1. `bash ./run.bash`
