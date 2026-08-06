@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DOT - GovDelivery Administrators - Recent Updates</title>
+    <link>https://www.columbus.gov/</link>
+    <description>DOT - GovDelivery Administrators - Recent Updates</description>
+    <language>en-us</language>
+    <item>
+      <pubDate>Mon, 03 Mar 2025 09:30:19 -0600</pubDate>
+      <title>GovDelivery SMS Migration Upgrade - ALERT</title>
+      <guid isPermaLink="false">64290847</guid>
+      <link>https://content.govdelivery.com/accounts/OHCCC/bulletins/3d5001f</link>
+      <description>
+        <![CDATA[<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="gd_tbl_wrap"><tr><td style="background-color: #dddddd; margin: 0; padding: 0; width: 100% !important" bgcolor="#dddddd"><table class="main-table" width="600" align="center" cellpadding="0" cellspacing="0" id="yahoo" style="width: 600px; border-collapse: collapse;">
+
+<tr>
+<td style="padding: 15px 0 20px;" class="mobile-padding">
+<table class="main-table" width="100%" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="background-color: #FFF; border-collapse: collapse;">
+
+<tr>
+<td id="header-bg" data-govdstyle="all" data-govdtitle="Header Background" style="border-left-style: none; border-right-style: none; border-top-style: none; background-color: #00539b;" bgcolor="#00539b">
+<table class="main-table" width="100%" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td id="main-header" width="100%" data-govdstyle="all" data-govdtitle="Main Header" align="center" style="background-color: #00539b; padding: 0px;" bgcolor="#00539b">
+<img class="govd_template_image" src="https://content.govdelivery.com/attachments/fancy_images/OHCCC/2017/11/1671590/govdelivery-technology_original.png" style="width: 600px; height: auto !important; max-height: auto !important; border: none;" alt="Department of Technology" width="600" height="225">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td>
+<table class="main-table" width="100%" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td id="main-body" width="100%" data-govdstyle="all" data-govdtitle="Main Body" style="padding: 20px;">
+<h1 style="text-align: start; line-height: 1.1; font-weight: bold; font-family: arial, helvetica, sans-serif; font-size: 26px; margin: 0 0 10px;" align="start">GovDelivery SMS Migration Upgrade</h1>
+<h2 style="text-align: start; line-height: 1.1; font-weight: bold; font-family: arial, helvetica, sans-serif; color: #d3222a; font-size: 18px; margin: 0 0 10px;" align="start">For GovDelivery Administrators</h2>
+<p class="gd_p" style="text-align: start; line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;" align="start">Greetings!</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">Over the past year, Granicus/GovDelivery has invested in modernizing its sending stack to facilitate a more scalable SMS performance. Since completing migrations with several of its largest volume senders, they are now ready to migrate all its customers to this new infrastructure.</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">This refinement will also facilitate accelerated GovDelivery feature adoption in 2025 and beyond.</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">To facilitate this migration, GovDelivery has planned migration for the City of Columbus on <strong>March 18, 4 pm – 6 pm ET</strong>.</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">During this time, GovDelivery will experience a period of downtime.</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">Please check your scheduled or planned bulletin dates and times.</p>
+<p style="line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;">If this time interferes with your SMS communications strategy, please let us know as soon as possible in case we may need to communicate with Granicus/GovDelivery about selecting an alternative migration date.</p>
+<p class="gd_p" style="text-align: start; line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;" align="start">If you have any questions or concerns, please send an e-mail to the Web Admin Team group <a href="mailto:webadmin@columbus.gov" target="_blank" title="DoT Web Admin Team Inbox" rel="noopener" style="color: #0062B2; text-decoration: underline; -ms-word-break: break-all; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none;">inbox</a>.</p>
+<p class="gd_p" style="text-align: start; line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;" align="start"> </p>
+<p class="gd_p" style="text-align: start; line-height: 1.4; font-family: Calibri, Candara, Arial, Helvetica, sans-serif; margin: 0 0 10px;" align="start">- Your WebAdmins:<br><em>Gloria Chizmar</em><br><em>Herb Baldwin</em><br><em>Michael Nicholson</em><br><em>Nicole Woodward</em></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+
+</table></td></tr></table>]]>
+      </description>
+    </item>
+  </channel>
+</rss>
