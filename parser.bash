@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# Echoes CSV lines for each file in ./rss/*.rss
+#
 set -euo pipefail
 
 echo '"Feed Number","Title","Link","Description","Feed URL","Newsletter Signup URL"'
