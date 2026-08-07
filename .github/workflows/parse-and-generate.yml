@@ -1,5 +1,5 @@
-name: GitHub Actions Demo
-run-name: "Download Stuff; build the feed"
+name: Columbus GovDelivery RSS scraper
+run-name: "Download Stuff; build the OPML; generate RSS feed"
 on:
   push:
   workflow_dispatch:
@@ -7,33 +7,16 @@ on:
     - cron: '0 12 * * 6' # Saturdays at noon, in whatever timezone Github uses
 jobs:
   Download-and-Make:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
-      - run: echo "ℹ️ The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "ℹ️ The job was triggered by a ${{ github.event_name }} event."
       - name: Check out this repo
         uses: actions/checkout@v7
       - run: echo "ℹ️ The ${{ github.repository }} repository has been cloned to the runner."
       - run: mkdir -p build/
       - name: Fetch latest data from the API endpoint
         run: |-
-          bash ./scraper.bash
-      - name: "Save files"
-        uses: actions/upload-artifact@v4
-        with:
-          name: acf-options.json
-          path: build/acf-options.json
-      - name: Parse scrape and update JSON
-        run: |-
-          php ./parser.php
-      - name: Generate RSS feed
-        run: |-
-          php ./rss.php > rss.xml
-      - name: "Save files"
-        uses: actions/upload-artifact@v4
-        with:
-          name: acf-options.json
-          path: build/acf-options.json
-          if-no-files-found: error
+          bash ./update.bash
       - name: "🛑 Preserve php errors"
         uses: actions/upload-artifact@v4
         if: failure()
@@ -41,14 +24,12 @@ jobs:
           name: php-error.log
           path: |
             ./php-error.log
-            ./alerts-log.csv
-            ./build/*
       - name: "▶️ Commit and push if the data has changed"
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "Latest scrape: ${timestamp}" || exit 0
           git push
 
