@@ -18,7 +18,7 @@ jobs:
         run: |-
           bash ./update.bash
       - name: "🛑 Preserve php errors"
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         if: failure()
         with:
           name: php-error.log
