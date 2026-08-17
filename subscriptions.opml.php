@@ -29,7 +29,7 @@ function escape( $string ) {
  */
 function iterate( $handle ) {
     $iterator = 0;
-    while ( ($data = fgetcsv( $handle, 1000 ) ) !== false ) {
+    while ( ($data = fgetcsv( $handle, 1000, ",", "\"", "\\") ) !== false ) {
         $iterator++;
         // skip over the header row.
         if ( 1 === $iterator ) {
