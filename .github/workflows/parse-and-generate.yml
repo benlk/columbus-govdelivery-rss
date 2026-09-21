@@ -20,7 +20,15 @@ jobs:
       - name: Install yq/xq
         run: |-
           python -m pip install -r requirements.txt
-      - run: mkdir -p build/
+      - name: Create build directory
+        run: mkdir -p build/
+      - name: Test dependencies
+        run: |-
+          php --version
+          xq --version
+          awk --version
+          curl --version
+          sed --version
       - name: Fetch latest data from the API endpoint
         run: |-
           bash ./update.bash
