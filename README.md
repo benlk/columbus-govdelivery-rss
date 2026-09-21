@@ -43,7 +43,7 @@ Many feeds have no items. I _suspect_ that this is because:
 
 1. Clone this repo.
 2. Install [yq](https://github.com/kislyuk/yq), php, and wget.
-    - If you're using Python's [`uv`](https://docs.astral.sh/uv/) package manager, you should be able to run `uv sync` to get this.
+    - `pip install -r requirements.txt`
 3. In `scraper.bash`, set the start feed number to `001`.
 4. Run `bash ./scraper.bash` to populate your `feeds/` directory.
 5. Reset edits to `scraper.bash`

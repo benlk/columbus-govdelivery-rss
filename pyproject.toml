@@ -1,8 +1,0 @@
-[project]
-name = "columbus-govdelivery-rss"
-version = "0.1.0"
-description = "Columbus GovDelivery RSS scraper"
-requires-python = ">=3.9"
-dependencies = [
-    "yq",
-]
