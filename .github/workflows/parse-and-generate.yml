@@ -13,6 +13,12 @@ jobs:
       - name: Check out this repo
         uses: actions/checkout@v7
       - run: echo "ℹ️ The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install pip and yq/xq
+        run: |-
+          uv python install --default
+          uv pip install --system .
       - run: mkdir -p build/
       - name: Fetch latest data from the API endpoint
         run: |-
