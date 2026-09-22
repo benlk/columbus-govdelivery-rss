@@ -2,7 +2,7 @@
 	<head>
 		<title>Columbus GovDelivery RSS Feeds</title>
 		<dateCreated>24 Oct 2022</dateCreated>
-		<dateModified>31 Jul 2026</dateModified>
+		<dateModified>21 Sep 2026</dateModified>
 		<ownerName>Ben Keith</ownerName>
 		<docs>http://opml.org/spec2.opml</docs>
 		<docs>https://github.com/benlk/columbus-govdelivery-rss/</docs>
@@ -425,6 +425,8 @@
 <outline text="ADA - DoT IT Partners - Recent Updates" type="rss" title="ADA - DoT IT Partners - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_662/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_662"/>
 <outline text="NEI - DoN 10 Invites (Non-AC) - Recent Updates" type="rss" title="NEI - DoN 10 Invites (Non-AC) - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_666/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_666"/>
 <outline text="NEI - DoN 10 AC Invites - Recent Updates" type="rss" title="NEI - DoN 10 AC Invites - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_667/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_667"/>
+<outline text="HR - Citywide Managers Listing - Recent Updates" type="rss" title="HR - Citywide Managers Listing - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_668/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_668"/>
+<outline text="R &amp; P - Big Table 2026 - Recent Updates" type="rss" title="R &amp; P - Big Table 2026 - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_669/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_669"/>
 <outline text="R&amp;P - Adult Sports Programming Updates - Recent Updates" type="rss" title="R&amp;P - Adult Sports Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_66/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_66"/>
 <outline text="R&amp;P - Cultural Arts Center Programming Updates - Recent Updates" type="rss" title="R&amp;P - Cultural Arts Center Programming Updates - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_70/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_70"/>
 <outline text="CSC - City Employment News - Recent Updates" type="rss" title="CSC - City Employment News - Recent Updates" xmlUrl="https://public.govdelivery.com/topics/OHCCC_71/feed.rss" htmlUrl="https://public.govdelivery.com/accounts/OHCCC/subscriber/new?qsp=OHCCC_71"/>
